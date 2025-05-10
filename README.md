@@ -1,4 +1,4 @@
-<h1>🛠️ Feature Engineering 2– Learning Notes (By Yusuf Abdurrahman)</h1>
+<h1>🛠️ Feature Engineering 2 – Learning Notes (By Yusuf Abdurrahman)</h1>
 
 <blockquote><em>"Better features make better models. Crafting the right variables is the art behind predictive power."</em></blockquote>
 
